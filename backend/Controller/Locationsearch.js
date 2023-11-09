@@ -1,10 +1,5 @@
-// const locationModel = require("../Models/locationmodel.js")
+const locationSearchModel = require("../Models/locationsearchModel")
 
-// exports.locationsearch = (req,res) => {
-//     try {
-        
-//     } catch (error)
-//     {
-//     }
-
-// }
+exports.locationSearch = (req,res) => {
+    
+}
